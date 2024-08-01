@@ -1,5 +1,5 @@
 # Project Goals
-Conduct an internal audit to determine what standards and compliances were being met and provide recommendations for best practices. 
+Conduct an internal audit to determine what standards and compliances were being met and provide recommendations for best practices. You can view my findings [here](https://github.com/AndreaJasper/Cyber-Security-Projects/blob/main/Botium-Toys-Security-Audit/Controls%20and%20compliance%20checklist.pdf)
 
 ## Scope, goals, and risk assessment report
 
